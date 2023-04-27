@@ -9,11 +9,14 @@
 #### \* this web site is for \*
 
 
-1. **insure** that I have more :  detailed understanding as I progress through the course .
+1. **insure** that I have more detailed understanding as I progress through the course .
 2. I can **keep track** of my observations and questions from the reading assignments throughout my course.
 
 <br>
 
+[reading notes link](https://walaaalrefai.github.io/reading-notes/)
+
+<br>
 ## Code 102 - Intro to Software Development
 <br>
 
