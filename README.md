@@ -14,9 +14,10 @@
 
 <br>
 
-[reading notes link](https://walaaalrefai.github.io/reading-notes/)
+[SQL Practice link](./sqlPractice.md)
 
 <br>
+
 ## Code 102 - Intro to Software Development
 <br>
 
