@@ -30,6 +30,7 @@
 ## Code 401 - Advanced Software Development
 
 
-[MINDSET Practice link](MINDSET.md) 
+[MINDSET Practice link](MINDSET.md) <br>
+[Engineering Readings Practice link](ENGINEERING.md) 
 
 ## Things I want to know more about
