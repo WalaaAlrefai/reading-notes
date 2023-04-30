@@ -14,8 +14,8 @@
 
 <br>
 
-[SQL Practice link](./sqlPractice.md)
-
+[SQL Practice link](SQLPRACTICE.md) <br>
+[Terminal Practice link](TERMINALPRACTICE.md)
 <br>
 
 ## Code 102 - Intro to Software Development
@@ -30,3 +30,6 @@
 ## Code 401 - Advanced Software Development
 
 
+[MINDSET Practice link](MINDSET.md) 
+
+## Things I want to know more about
