@@ -32,5 +32,7 @@
 
 [MINDSET Practice link](MINDSET.md) <br>
 [Engineering Readings Practice link](ENGINEERING.md) 
+[DATA STRUCTURE AND ALGORITHIMS Practice link](DATASTRUCTURE.md) 
+[Read:Class-01](READING1.md)
 
 ## Things I want to know more about
