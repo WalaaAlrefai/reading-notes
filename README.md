@@ -34,17 +34,5 @@
 5. [Terminal Practice link](TERMINALPRACTICE.md)<br>
 6. [Read:Class-01](READING1.md)<br>
 6. [Read:Class-02](READING2.md)<br>
-<!-- <table>
-<thead>
-<th> Prep #</th>
-<th> Content </th>
-</thead>
-<tr>
-<td>1
-</td>
-<><>
-<tr>
-
-</table> -->
 
 ## Things I want to know more about
