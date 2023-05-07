@@ -13,7 +13,6 @@
 2. I can **keep track** of my observations and questions from the reading assignments throughout my course.
 
 
-
 ## Code 102 - Intro to Software Development
 <br>
 
@@ -27,13 +26,18 @@
 
 ### Table of Contents:
 
-1. [MINDSET Practice link](MINDSET.md) <br>
-2. [Engineering Readings Practice link](ENGINEERING.md) <br>
-3. [D.S AND ALGORITHIMS Practice link](DATASTRUCTURE.md) <br>
-4. [SQL Practice link](SQLPRACTICE.md) <br>
-5. [Terminal Practice link](TERMINALPRACTICE.md)<br>
-6. [Read:Class-01](READING1.md)<br>
-7. [Read:Class-02](READING2.md)<br>
-8. [Read:Class-03](READING3.md)<br>
+| #     | Prep |    
+| :---        |    :----:   |          
+| 1| [MINDSET Practice link](MINDSET.md)|
+| 2| [Engineering Readings Practice link](ENGINEERING.md)|
+|3|[D.S AND ALGORITHIMS Practice link](DATASTRUCTURE.md)|
+|4|[SQL Practice link](SQLPRACTICE.md)|
+|5|[Terminal Practice link](TERMINALPRACTICE.md)|
+
+| #     | Reading notes |    
+| :---        |    :----:   |   
+|[Class-01]|(READING1.md)|
+|[Class-02]|(READING2.md)<br>
+|[Class-03]|(READING3.md)|
 
 ## Things I want to know more about
