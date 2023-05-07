@@ -33,6 +33,7 @@
 4. [SQL Practice link](SQLPRACTICE.md) <br>
 5. [Terminal Practice link](TERMINALPRACTICE.md)<br>
 6. [Read:Class-01](READING1.md)<br>
-6. [Read:Class-02](READING2.md)<br>
+7. [Read:Class-02](READING2.md)<br>
+8. [Read:Class-03](READING3.md)<br>
 
 ## Things I want to know more about
