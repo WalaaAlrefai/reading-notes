@@ -39,5 +39,6 @@
 |Class-01|[Pain and Suffering](READING1.md)|
 |Class-02|[Testing and Modules](READING2.md)
 |Class-03|[With](READING3.md)|
+|Class-04|[Classess and Objects](READING4.md)|
 
 ## Things I want to know more about
