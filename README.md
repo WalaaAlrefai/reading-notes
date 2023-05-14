@@ -41,5 +41,6 @@
 |Class-03|[With](READING3.md)|
 |Class-04|[Classess and Objects](READING4.md)|
 |Class05|[Linked List](READING5.md)|
+|Class06|[Ten Thousand Game 1](READING6.md)|
 
 ## Things I want to know more about
