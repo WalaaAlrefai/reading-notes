@@ -1,104 +1,81 @@
-# Stacks and Queues
+## Python list comprehension
+ is a concise way to create a new list by applying an expression to each element of an existing list or iterable. The basic syntax of list comprehension is as follows:
 
-## Stacks 
-
-- A stack is a data structure that consists of Nodes
-- Terms for stack:
-  - Push - Nodes or items that are put into the stack are pushed
-  - Pop - Nodes or items that are removed from the stack are popped. When you attempt to pop an empty stack an exception will be raised.
-  - Top - This is the top of the stack.
-  - Peek - When you peek you will view the value of the top Node in the stack. When you attempt to peek an empty stack an exception will be raised.
-  - IsEmpty - returns true when stack is empty otherwise returns false.
-
-- Stacks follow these concepts:
-  - FILO: First In Last Out
-  - LIFO: Last In First Out
-- pseudocode to push a value onto a stack:
 
 <code>
 
-    ALOGORITHM push(value)
-    // INPUT <-- value to add, wrapped in Node internally
-    // OUTPUT <-- none
-    node = new Node(value)
-    node.next <-- Top
-    top <-- Node
-</code>
-
-- Popping a Node off a stack is the action of removing a Node from the top.
-- pseudocode for a peek
-
-<code>
-
-    ALGORITHM peek()
-    // INPUT <-- none
-    // OUTPUT <-- value of top Node in stack
-    // EXCEPTION if stack is empty
-
-    return top.value
+    new_list = [expression for item in iterable if condition]
 
 </code>
 
-- pseudocode for isEmpty
+### Here's a breakdown of the components:
+
+
+- expression: The expression that will be applied to each item in the iterable.
+- item: The variable representing the current item being processed in the iterable.
+- iterable: The existing list or iterable from which elements are being extracted.
+- condition (optional): An optional condition that filters the elements from the iterable based on a Boolean expression. Only the elements satisfying the condition will be included in the new list.
+
+
+## List comprehension 
+is often more concise and readable compared to using a traditional for loop to create a list. It combines the iteration and transformation steps into a single line, reducing the code required and making it easier to understand.
+
+Here's an example that demonstrates how to square each element in a given list of integers using list comprehension:
+
+
 
 <code>
 
-    ALGORITHM isEmpty()
-    // INPUT <-- none
-    // OUTPUT <-- boolean
+    numbers = [1, 2, 3, 4, 5]
+    squared_numbers = [x ** 2 for x in numbers]
+    print(squared_numbers)
+Output:
 
-    return top = NULL
-</code>
-
-## Queue
-
-
-- Terminology for a queue is
-  - Enqueue - Nodes or items that are added to the queue.
-
-  - Dequeue - Nodes or items that are removed from the queue. If called when the queue is empty an exception will be raised.
-  - Front - This is the front/first Node of the queue.
-  - Rear - This is the rear/last Node of the queue.
-  - Peek - When you peek you will view the value of the front Node in the queue. If called when the queue is empty an exception will be raised.
-  - IsEmpty - returns true when queue is empty otherwise returns false.
-- Queues follow these concepts:
-FIFO: First in First Out
-LILO: Last in Last Out
-- pseudocode for the enqueue method:
-
-<code>
-
-    ALGORITHM enqueue(value)
-    // INPUT <-- value to add to queue (will be wrapped in Node internally)
-    // OUTPUT <-- none
-    node = new Node(value)
-    rear.next <-- node
-    rear <-- node
+    
+    [1, 4, 9, 16, 25]
 
 </code>
 
-- pseudocode for the dequeue method:
+In the example above, the expression x ** 2 squares each element x in the numbers list, and the resulting squared numbers are stored in the squared_numbers list using list comprehension.
+
+Now, let's move on to the concept of decorators in Python.
+
+## In Python, decorators are:
+ a way to modify or enhance the behavior of a function or class without changing its source code. Decorators are implemented as functions that take another function as an argument and return a modified version of that function. They allow you to wrap additional functionality around an existing function or class dynamically.
+
+__Decorators__ are commonly used for tasks such as logging, authentication, caching, input validation, and more. They provide a clean and reusable way to add extra functionality to functions or classes without modifying their original implementation.
+
+Here's an example of a simple decorator function that measures the execution time of a function:
 
 <code>
 
-    ALGORITHM dequeue()
-    // INPUT <-- none
-    // OUTPUT <-- value of the removed Node
-    // EXCEPTION if queue is empty
+    import time
 
-    Node temp <-- front
-    front <-- front.next
-    temp.next <-- null
+    def measure_time(func):
+      def wrapper(*args, **kwargs):
+          start_time = time.time()
+          result = func(*args, **kwargs)
+          end_time = time.time()
+          execution_time = end_time - start_time
+          print(f"Execution time: {execution_time} seconds")
+          return result
+      return wrapper
 
-    return temp.value
+</code>
 
-- pseudocode for a peek:
+In the example above, the measure_time function is a decorator that takes a function func as an argument. It defines an inner function wrapper that measures the execution time of func by calculating the time difference between the start and end time. It then prints the execution time and returns the result.
+
+To apply the measure_time decorator to a specific function, you can prefix the function definition with the @measure_time syntax, like this:
 
 <code>
 
-    ALGORITHM peek()
-    // INPUT <-- none
-    // OUTPUT <-- value of the front Node in Queue
-    // EXCEPTION if Queue is empty
+    @measure_time
+    def my_function():
+       # Code for the function
+    pass
 
-    return front.value
+</code>
+
+Now, whenever my_function is called, it will be wrapped with the functionality provided by the measure_time decorator. The execution time will be printed, and the original function's behavior will be preserved.
+
+It's important to note that decorators can also take arguments, allowing you to customize their behavior further. However, that goes beyond the scope of this explanation.
