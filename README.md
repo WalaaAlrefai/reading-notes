@@ -43,7 +43,8 @@
 |Class05|[Linked List](READING5.md)|
 |Class06|[Ten Thousand Game 1](READING6.md)|
 |Class07|[Ten Thousand Game 2](READING7.md)|
-|Class8|[Ten Thousand Game 3](READING8.md)|
-|Class08|[Stacks and Queues](StackAndQueue.md)|
+|Class08|[Ten Thousand Game 3](READING8.md)|
+|class09|[Ten Thousand Game 4](READING09.md)|
+|Class10|[Stacks and Queues](StackAndQueue.md)|
 
 ## Things I want to know more about
