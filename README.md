@@ -34,7 +34,7 @@
 |4|[SQL Practice link](SQLPRACTICE.md)|
 |5|[Terminal Practice link](TERMINALPRACTICE.md)|
 
-| #     | Reading notes |    
+| Class #     | Reading notes |    
 | :---        |    :----:   |   
 |Class-01|[Pain and Suffering](READING1.md)|
 |Class-02|[Testing and Modules](READING2.md)
@@ -44,7 +44,9 @@
 |Class06|[Ten Thousand Game 1](READING6.md)|
 |Class07|[Ten Thousand Game 2](READING7.md)|
 |Class08|[Ten Thousand Game 3](READING8.md)|
-|class09|[Ten Thousand Game 4](READING09.md)|
+|Class09|[Ten Thousand Game 4](READING09.md)|
 |Class10|[Stacks and Queues](StackAndQueue.md)|
+|Class11|[Data Analysis](READING11.MD)|
+
 
 ## Things I want to know more about
