@@ -47,6 +47,7 @@
 |Class09|[Ten Thousand Game 4](READING09.md)|
 |Class10|[Stacks and Queues](StackAndQueue.md)|
 |Class11|[Data Analysis](READING11.MD)|
+|Class12|[Pandas](READING12.md)|
 
 
 ## Things I want to know more about
