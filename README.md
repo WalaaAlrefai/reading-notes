@@ -48,6 +48,7 @@
 |Class10|[Stacks and Queues](StackAndQueue.md)|
 |Class11|[Data Analysis](READING11.MD)|
 |Class12|[Pandas](READING12.md)|
+|Class13|[Linear Regressions](READING13.md)|
 
 
 ## Things I want to know more about
