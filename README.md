@@ -49,6 +49,7 @@
 |Class11|[Data Analysis](READING11.MD)|
 |Class12|[Pandas](READING12.md)|
 |Class13|[Linear Regressions](READING13.md)|
+|Class14|[Data Visualization](READING14.md)|
 
 
 ## Things I want to know more about
