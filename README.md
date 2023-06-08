@@ -50,6 +50,8 @@
 |Class12|[Pandas](READING12.md)|
 |Class13|[Linear Regressions](READING13.md)|
 |Class14|[Data Visualization](READING14.md)|
+|Class15|[Trees](READING15.md)|
+
 
 
 ## Things I want to know more about
