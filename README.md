@@ -51,6 +51,7 @@
 |Class13|[Linear Regressions](READING13.md)|
 |Class14|[Data Visualization](READING14.md)|
 |Class15|[Trees](READING15.md)|
+|Class16|[Serverless Functions](READING16.md)|
 
 
 
