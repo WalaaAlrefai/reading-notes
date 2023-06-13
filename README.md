@@ -52,7 +52,7 @@
 |Class14|[Data Visualization](READING14.md)|
 |Class15|[Trees](READING15.md)|
 |Class16|[Serverless Functions](READING16.md)|
-
+|Class17|[Web Scraping](READING17.md)|
 
 
 ## Things I want to know more about
