@@ -54,6 +54,7 @@
 |Class16|[Serverless Functions](READING16.md)|
 |Class17|[Web Scraping](READING17.md)|
 |Class26|[Intro to Django](READING26.md)|
+|Class24|[Django Models](READING27.md)|
 
 
 ## Things I want to know more about
