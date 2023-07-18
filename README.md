@@ -56,6 +56,7 @@
 |Class26|[Intro to Django](READING26.md)|
 |Class24|[Django Models](READING27.md)|
 |Class28|[Django CRUD and Forms](READING28.md)|
+|Class29|[Django custum user Model](READ29.md)|
 
 
 ## Things I want to know more about
