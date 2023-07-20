@@ -57,6 +57,7 @@
 |Class24|[Django Models](READING27.md)|
 |Class28|[Django CRUD and Forms](READING28.md)|
 |Class29|[Django custum user Model](READ29.md)|
+|Class30|[Hash Tables](READING30.md)|
 
 
 ## Things I want to know more about
