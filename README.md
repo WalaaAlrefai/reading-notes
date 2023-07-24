@@ -59,6 +59,7 @@
 |Class29|[Django custum user Model](READ29.md)|
 |Class30|[Hash Tables](READING30.md)|
 |Class31|[Django Custum User Model](README31.md)|
+|Class32|[Permissions & Postgresql](READING32.md)|
 
 
 ## Things I want to know more about
